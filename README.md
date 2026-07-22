@@ -50,7 +50,7 @@ python manage.py runserver
 
 ```
 
-*The API is now live at `[http://127.0.0.1:8000/api/v1/](http://127.0.0.1:8000/api/v1/)*`
+*The API is now live*
 
 ---
 
