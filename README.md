@@ -82,8 +82,8 @@ Full architecture details available in the internal review documentation.
 
 ```json
 {
-    "customer_name": "Ravi Kumar",
-    "email": "ravi.kumar@urbancartretail.com",
+    "customer_name": "Ravi",
+    "email": "ravi@gmail.com",
     "rating": 5,
     "comment": "Exceptional support desk assistance!"
 }
