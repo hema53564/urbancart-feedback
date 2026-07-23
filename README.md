@@ -51,7 +51,11 @@ python manage.py runserver
 ```
 
 *The API is now live*
+### Accessing the Application
+Once you start the server using `python manage.py runserver`, you can access the application via the following URLs:
 
+* **API Endpoints (Feedback List & Submission):** `http://127.0.0.1:8000/api/feedback/`
+* **Django Admin Panel:** `http://127.0.0.1:8000/admin/`
 ---
 
 ## 🛠️ Tech Stack
